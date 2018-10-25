@@ -1,0 +1,11 @@
+com\baoji\mapper\TbItemMapper.class
+com\baoji\mapper\TbOrderItemMapper.class
+com\baoji\mapper\TbContentCategoryMapper.class
+com\baoji\mapper\TbItemCatMapper.class
+com\baoji\mapper\TbItemDescMapper.class
+com\baoji\mapper\TbItemParamItemMapper.class
+com\baoji\mapper\TbItemParamMapper.class
+com\baoji\mapper\TbOrderMapper.class
+com\baoji\mapper\TbOrderShippingMapper.class
+com\baoji\mapper\TbContentMapper.class
+com\baoji\mapper\TbUserMapper.class
