@@ -20,8 +20,19 @@
 	<modules>
 		<module>baoji-manager-pojo</module>
 		<module>baoji-manager-dao</module>
-		<module>com-manager-interface</module>
 		<module>baoji-manager-interface</module>
 		<module>baoji-manager-service</module>
 	</modules>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<configuration>
+					<port>8080</port>
+					<path>/</path>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>
