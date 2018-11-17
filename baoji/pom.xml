@@ -260,4 +260,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<modules>
+		<module>baoji-pp</module>
+	</modules>
 </project>
